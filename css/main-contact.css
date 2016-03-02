@@ -1,0 +1,30 @@
+/*------------SECTION: FORMULARIO-------------*/
+
+#formulario{
+	background: url("../image/large.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-y: 0%;
+}
+	.hero{
+		background-color: rgba(45, 44, 65, 0.6);
+	}
+	.container{
+		background: red;
+		margin: 100px 250px 0 350px;
+		border-top: 6px #1D75B0 solid;
+	}
+		.h1-form{
+			font-size: 30px;
+			margin-left: 60px;
+		}
+		.hr-h1{
+			margin-left: 60px;
+			margin-top: 5px;
+		}
+		.inp{
+			display: inline-block;
+		}
+		.lb{
+			display: inline-block;
+		}
