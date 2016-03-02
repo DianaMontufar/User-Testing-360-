@@ -10,21 +10,53 @@
 		background-color: rgba(45, 44, 65, 0.6);
 	}
 	.container{
-		background: red;
+		background: white;
 		margin: 100px 250px 0 350px;
 		border-top: 6px #1D75B0 solid;
 	}
+		.input{
+			width: 310px;
+		}
+		.textarea{
+			width: 310px;
+		}
+		.lb-a{
+			margin-right: 12px;
+		}
+		.button{
+			
+			background: #1D75B0;
+			color: white;
+			border: none;
+		}
+		.inp-email{
+			margin-left: 61px;
+		}
+		.lb-txtarea{
+			display: inline-block;
+		}
+		.lb-txt{
+			margin-left: -45px;
+		    position: relative;
+		    top: -101px;
+		}
+		.btn-form{
+			margin-left: 193px;
+		}
 		.h1-form{
 			font-size: 30px;
-			margin-left: 60px;
 		}
 		.hr-h1{
-			margin-left: 60px;
-			margin-top: 5px;
+			margin-left: 80px;
+    		margin-top: 10px;
 		}
-		.inp{
+		.asterisco{
+			color: red;
 			display: inline-block;
 		}
-		.lb{
+		.inp, .lb{
 			display: inline-block;
+		}
+		.a-form{
+			color: #1D75B0;
 		}

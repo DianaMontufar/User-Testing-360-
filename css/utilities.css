@@ -129,6 +129,15 @@ strong {
 .mg-btm-50{
 	margin-bottom: 50px;
 }
+.mg-l-r-20{
+	margin: 0 20px 0 20px;
+}
+.mg-r-5px{
+	margin-right: 5px;
+}
+.mg-r-28{
+	margin-right: 28px !important;
+}
 .w-100{
 	width: 100%;
 }
